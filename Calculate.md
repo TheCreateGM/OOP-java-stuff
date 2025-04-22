@@ -2,6 +2,8 @@
 
 This Java program simulates a basic point-of-sale system. It takes user input for the number of customers and items, collects prices for each item per customer, calculates the total cost, and applies a discount if applicable.
 
+🔗 **[View](https://github.com/TheCreateGM/OOP-java-stuff/blob/main/System/calculate.java)**
+
 ---
 
 ### Features
