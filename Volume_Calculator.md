@@ -4,7 +4,9 @@
 
 This Java program demonstrates **object-oriented programming concepts** such as **interfaces**, **inheritance**, and **polymorphism** through a simple application that calculates the volumes of a sphere and a cylinder.
 
-🔗 **[View](https://github.com/TheCreateGM/OOP-java-stuff/blob/main/Calculation/calculate.java)**
+🔗 **[View](https://github.com/TheCreateGM/OOP-java-stuff/blob/main/Calculation/calculate.java)** - version 1
+
+🔗 **[View](https://github.com/TheCreateGM/OOP-java-stuff/blob/main/SphereCylinder/program.java)** - version 2
 
 ### Files
 
